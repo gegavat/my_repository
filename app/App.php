@@ -1,5 +1,5 @@
 <?php
-
+// новый комментарий
 namespace app;
 
 class App {
